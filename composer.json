@@ -1,0 +1,24 @@
+{
+  "name": "future/admin-addons",
+  "description": "基于fastadmin，自制的laravel版本兼容。",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2.5",
+    "laravel/framework": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Future\\Admin\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "此処",
+      "email": "email1946367301@163.com"
+    }
+  ]
+}
