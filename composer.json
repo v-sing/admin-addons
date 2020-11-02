@@ -1,5 +1,5 @@
 {
-  "name": "future/admin-addons",
+  "name": "future/addons",
   "description": "基于fastadmin，自制的laravel版本兼容。",
   "type": "library",
   "license": "MIT",
