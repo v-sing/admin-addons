@@ -8,8 +8,10 @@
 
 namespace Future\Admin;
 
+use Illuminate\Support\ServiceProvider;
 
-class AddonsServiceProvider
+
+class AddonsServiceProvider extends ServiceProvider
 {
     protected $namespace = 'Future\Admin\Controllers';
 
